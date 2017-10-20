@@ -32,7 +32,8 @@ app.get('/json',(req,res)=> {
         nome: 'Rafael',
         likes: [
             'natação',
-            'Piano'
+            'Piano',
+            'Programação'
         ],
         age: 32
     };
